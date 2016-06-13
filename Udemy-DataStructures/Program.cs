@@ -10,7 +10,8 @@ namespace Udemy_DataStructures
     {
         static void Main(string[] args)
         {
-            Sorting.InsertionSort();
+            //Sorting.InsertionSort();
+            Sorting.SelectionSort();
         }
     }
 }
