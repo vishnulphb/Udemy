@@ -1,0 +1,6 @@
+c:\users\vpillai\documents\visual studio 2015\Projects\Udemy-DataStructures\Udemy-DataStructures\bin\Debug\Udemy-DataStructures.exe.config
+c:\users\vpillai\documents\visual studio 2015\Projects\Udemy-DataStructures\Udemy-DataStructures\bin\Debug\Udemy-DataStructures.exe
+c:\users\vpillai\documents\visual studio 2015\Projects\Udemy-DataStructures\Udemy-DataStructures\bin\Debug\Udemy-DataStructures.pdb
+c:\users\vpillai\documents\visual studio 2015\Projects\Udemy-DataStructures\Udemy-DataStructures\obj\Debug\Udemy-DataStructures.csprojResolveAssemblyReference.cache
+c:\users\vpillai\documents\visual studio 2015\Projects\Udemy-DataStructures\Udemy-DataStructures\obj\Debug\Udemy-DataStructures.exe
+c:\users\vpillai\documents\visual studio 2015\Projects\Udemy-DataStructures\Udemy-DataStructures\obj\Debug\Udemy-DataStructures.pdb
